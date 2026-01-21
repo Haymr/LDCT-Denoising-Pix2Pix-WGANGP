@@ -77,8 +77,8 @@ Output (256x256x1)
 
 | Dataset | PSNR (dB) | SSIM |
 |---------|-----------|------|
-| Mayo (Validation) | 41.73 ± 5.84 | 0.941 ± 0.045 |
-| PhantomX (External) | - | - |
+| Mayo (Validation) | 37.75 | 0.891 |
+| PhantomX (External) | 35.21  | 0.9522 |
 
 ## 🎯 Use Cases
 
