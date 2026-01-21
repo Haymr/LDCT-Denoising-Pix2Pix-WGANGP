@@ -6,6 +6,8 @@ A hybrid Pix2Pix + WGAN-GP model for Low-Dose CT image denoising.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+📚 **Tutorials**: [English](TUTORIAL_EN.md) | [Türkçe](TUTORIAL_TR.md)
+
 ## 📋 Features
 
 - **Hybrid Model**: Pix2Pix U-Net Generator + WGAN-GP loss
