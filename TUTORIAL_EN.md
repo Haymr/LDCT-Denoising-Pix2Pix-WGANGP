@@ -127,8 +127,8 @@ Open `notebooks/04_validation_internal.ipynb`:
 
 ```python
 # Expected results on Mayo dataset
-PSNR: ~41.7 dB (±5.8)
-SSIM: ~0.94 (±0.05)
+PSNR: 37.75 dB
+SSIM: 0.891
 ```
 
 ### 4.2 External Testing
