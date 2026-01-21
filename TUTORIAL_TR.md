@@ -127,8 +127,8 @@ normalized = normalized * 2 - 1  # [-1, 1]
 
 ```python
 # Mayo veri setinde beklenen sonuçlar
-PSNR: ~41.7 dB (±5.8)
-SSIM: ~0.94 (±0.05)
+PSNR: 37.75 dB
+SSIM: 0.891
 ```
 
 ### 4.2 Harici Test
