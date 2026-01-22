@@ -1,5 +1,7 @@
 # Eğitim Rehberi: Pix2Pix + WGAN-GP ile LDCT Gürültü Azaltma
 
+> 💡 **Programlama bilmiyorsanız**: [Başlangıç Rehberi](BEGINNER_GUIDE_TR.md)'ne göz atın.
+
 LDCT gürültü azaltma modelini eğitmek ve kullanmak için adım adım rehber.
 
 ## İçindekiler

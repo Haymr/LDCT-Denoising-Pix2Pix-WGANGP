@@ -8,6 +8,8 @@ A hybrid Pix2Pix + WGAN-GP model for Low-Dose CT image denoising.
 
 📚 **Tutorials**: [English](TUTORIAL_EN.md) | [Türkçe](TUTORIAL_TR.md)
 
+🆕 **Beginner Guides** (No coding required!): [English](BEGINNER_GUIDE_EN.md) | [Türkçe](BEGINNER_GUIDE_TR.md)
+
 ## 📋 Features
 
 - **Hybrid Model**: Pix2Pix U-Net Generator + WGAN-GP loss

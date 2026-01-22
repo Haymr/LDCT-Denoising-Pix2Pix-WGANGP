@@ -1,5 +1,7 @@
 # Tutorial: LDCT Denoising with Pix2Pix + WGAN-GP
 
+> 💡 **New to coding?** Check out our [Beginner's Guide](BEGINNER_GUIDE_EN.md).
+
 A step-by-step guide to training and using the LDCT denoising model.
 
 ## Table of Contents
