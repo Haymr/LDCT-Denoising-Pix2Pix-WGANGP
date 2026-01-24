@@ -13,7 +13,7 @@ A hybrid Pix2Pix + WGAN-GP model for Low-Dose CT image denoising.
 ## 📋 Features
 
 - **Hybrid Model**: Pix2Pix U-Net Generator + WGAN-GP loss
-- **High Performance**: PSNR ~41.7 dB, SSIM ~0.94
+- **High Performance**: PSNR ~37.75 dB, SSIM ~0.891
 - **Desktop Application**: Drag-and-drop DICOM processing
 - **External Validation**: Tested on PhantomX dataset
 
